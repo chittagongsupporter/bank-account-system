@@ -5,13 +5,13 @@
 
 class BankAccount {
 public:
-    // Data members
-    int accountBalance;
-    int accountNumber;
+  // Data members
+  int accountBalance;
+  int accountNumber;
 
-    // Member functions
-    void deposit(int amount);
-    void withdraw(int amount);
+  // Member functions
+  void deposit(int amount);
+  void withdraw(int amount);
 };
 
 #endif
